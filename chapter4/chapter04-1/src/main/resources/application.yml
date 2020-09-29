@@ -1,0 +1,9 @@
+spring:
+  servlet:
+    multipart:
+      enabled: true #开启文件上传设置，默认true
+      file-size-threshold: 0 #文件写入磁盘的阈值，默认为0
+      #location: D:\application\Project\SpringBoot-Vue\TempFile #上传文件的临时保存位置
+      max-file-size: 100KB #单个文件的最大大小
+      max-request-size: 10MB #多文件上传时的总大小
+      resolve-lazily: false #是否延迟解析 默认false

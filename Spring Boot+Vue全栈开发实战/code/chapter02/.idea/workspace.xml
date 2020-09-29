@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b62368f-9e9a-4a94-8d6d-e7b6df9a0866" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/chapter02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/sang.p12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/src/main/java/org/sang/Chapter012Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/src/main/java/org/sang/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/src/main/java/org/sang/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/src/main/java/org/sang/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/src/main/java/org/sang/controller/TomcatConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/src/main/java/org/sang/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-2/src/test/java/org/sang/Cheapter012ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/src/main/java/org/sang/Chapter013Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/src/main/resources/application-default.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/src/main/resources/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01-3/src/test/java/org/sang/Chapter013ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01/.idea/chapter01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01/.idea/libraries/chapter01_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../chapter01/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter14/actuator" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter14/actuator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chapter01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter01/target/chapter01-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chapter01/target/chapter01-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter01/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chapter01/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\application\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1htqcWANmRPrWP8FHG3dhukq27m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chapter02-1" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b62368f-9e9a-4a94-8d6d-e7b6df9a0866" name="Default Changelist" comment="" />
+      <created>1600840815721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600840815721</updated>
+      <workItem from="1600840818527" duration="16000" />
+      <workItem from="1600840865930" duration="98000" />
+      <workItem from="1600840998384" duration="132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1220" y="274" key="FileChooserDialogImpl" timestamp="1600841075546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600841075546" />
+    <state x="1080" y="223" key="NewModule_or_Project.wizard" timestamp="1600841076982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1080" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600841076982" />
+  </component>
+</project>

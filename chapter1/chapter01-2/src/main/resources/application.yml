@@ -1,0 +1,198 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /chapter02
+  tomcat:
+    uri-encoding: utf-8
+  ssl:
+    key-store: sang.p12
+    key-alias: tomcathttps
+    key-store-password: tomcathttps
+
+book:
+  name: 三国演义
+  author: 罗贯中
+  price: 30.0
+
+books:
+  bookList:
+    - name: 三国演义
+      author: 罗贯中
+      price: 30.0
+    - name: 西游记
+      author: 范仲淹
+      price: 29.9
+
+#指定配置文件，开发和生产阶段的配置不一致，用两个配置文件来写，
+#就可以直接切换配置，而不用去改配置
+spring:
+  profiles:
+    active: prod
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
