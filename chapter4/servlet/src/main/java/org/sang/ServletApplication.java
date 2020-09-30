@@ -2,12 +2,14 @@ package org.sang;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.web.servlet.ServletComponentScan;
 
 @SpringBootApplication
-public class CommandlinerunnerApplication {
+@ServletComponentScan
+public class ServletApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CommandlinerunnerApplication.class, args);
+        SpringApplication.run(ServletApplication.class, args);
     }
 
 }
