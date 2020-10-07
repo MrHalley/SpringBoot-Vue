@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql:///jpa?serverTimezone=UTC
+    username: root
+    password: root
+  jpa:
+    show-sql: true
+    database: mysql
+    hibernate:
+      ddl-auto: update
+#   配置方言没有提示，先注释掉
+#     properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQL57Dialect
