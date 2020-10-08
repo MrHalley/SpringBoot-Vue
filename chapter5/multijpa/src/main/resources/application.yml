@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    one:
+      type: com.alibaba.druid.pool.DruidDataSource
+      url: jdbc:mysql:///chapter05_1?serverTimezone=UTC
+      username: root
+      password: root
+    two:
+      type: com.alibaba.druid.pool.DruidDataSource
+      url: jdbc:mysql:///chapter05_2?serverTimezone=UTC
+      username: root
+      password: root
+  jpa:
+    database: mysql
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
