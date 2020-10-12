@@ -1,0 +1,12 @@
+spring:
+  devtools:
+    restart:
+      exclude: static/** #从默认的不触发重启的目录中除去 static 目录
+      additional-paths: src/main/resources/static #反向配置需要监控的目录，该目录下的文件发生变化时，自动重启项目
+      #在项目resources目录下创建一个名为trigger-file的文件，此时当开发者修改代码时，默认情况下项目不会重启，
+      #   需要项目重启时，开发者只需要修改.trigger-file 文件即可。 但是注意，如果项 目没有改变，只是单纯地改变了.
+      #   trigger-file 文件，那么项目不会重启 。
+      trigger-file: .trigger-file
+      enabled: false  #关闭自动重启
+    livereload:
+      enabled: false  #挂麻痹liveReload的静态资源的动态加载，
