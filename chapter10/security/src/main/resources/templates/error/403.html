@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>403</title>
+</head>
+<body>
+    <h3>403错误页面 </h3>
+    <table border="1">
+        <tr th:each="attr : ${#request.getHeaderNames()}">
+            <td th:text="${attr}"></td>
+            <td th:text="${#request.getHeader(attr)}"></td>
+        </tr>
+    </table>
+    <table>
+        <tr th:each="attr : ${#request.getAttributeNames()}">
+            <td th:text="${attr}"></td>
+            <td th:text="${#request.getAttribute(attr)}"></td>
+        </tr>
+    </table>
+</body>
+</html>
