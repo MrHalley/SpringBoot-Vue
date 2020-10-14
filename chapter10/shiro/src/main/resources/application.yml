@@ -1,0 +1,12 @@
+shiro:
+  enabled: true                    #开启shiro配置 默认true
+  web:
+    enabled: true                  #开启Shiro Web配置 默认true
+  loginUrl: /login                 #登录地址 默认/login.jsp
+  unauthorizedUrl: /unauthorized   #登录成功地址 默认“/"
+  sessionManager:
+    #是否允许通过url参数实现会话跟踪，如果网站支持Cookie,
+    #可以关闭此选项，默认true
+    sessionIdUrlRewritingEnabled: true
+    #是否允许Cookie实现会话跟踪, 默认true
+    sessionIdCookieEnabled: true
