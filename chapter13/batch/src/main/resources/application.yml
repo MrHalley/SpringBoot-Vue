@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql:///batch?serverTimezone=UTC
+    username: root
+    password: root
+    #项目启动时创建数据表的SQL脚本，该脚本由Spring Batch提供
+    schema: classpath:/org/springframework/batch/core/schema-mysql.sql
+  batch:
+    #项目启动时执行建表SQL
+    initialize-schema: always
+    #禁止Spring Batch自动执行。在SpringBoot中，默认情况下，当
+    #项目启动时就会执行配置好的批处理操作。配置为false就需要用户
+    #手动触发执行，例如发送一个请求，在Controller的接口中触发批处理的执行
+    job:
+      enabled: false
