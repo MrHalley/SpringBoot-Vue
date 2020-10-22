@@ -1,0 +1,6 @@
+info:
+  app:
+    encoding: @project.build.sourceEncoding@
+    java:
+      target: @java.version@
+      source: @java.version@
