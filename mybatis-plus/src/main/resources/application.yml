@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    #springboot 2.1后的版本用cj的Driver,并加上serverTimeZone
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///mybatis_plus?serverTimezone=UTC
+    username: root
+    password: root
+#mybatis日志
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c97cb69a-7a6b-49da-8ecc-5a457f24293d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../chapter14/actuator" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter14/actuator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter1/chapter01/.idea/chapter01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chapter1/chapter01/.idea/chapter01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter1/chapter01/.idea/modules.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,11 +201,22 @@
       <workItem from="1530672680348" duration="201000" />
       <workItem from="1535548435877" duration="1378000" />
       <workItem from="1600773368397" duration="20000" />
+      <workItem from="1603761099089" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1115" y="223" key="FileChooserDialogImpl" timestamp="1603761124348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1115" y="223" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603761124348" />
+    <state x="975" y="228" key="NewModule_or_Project.wizard" timestamp="1603761125382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="975" y="228" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603761125382" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
