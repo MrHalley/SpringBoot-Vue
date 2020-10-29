@@ -87,7 +87,7 @@ class MybatisPlusApplicationTests {
 
     @Test
     public void testDeleteById(){
-        int i = userMapper.deleteById(3L);
+        int i = userMapper.deleteById(1L);
         System.out.println(i);
     }
 
